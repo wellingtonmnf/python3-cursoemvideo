@@ -26,11 +26,15 @@ Todos os direitos do conteúdo do curso são reservados à Curso em Vídeo © �
 
 ---
 
-| Curso               | Início      | Conclusão    |
-|---------------------|-------------|--------------|
-| Python 3 - Mundo 1  | 15/07/2025  | XX/XX/2025   |
-| Python 3 - Mundo 2  | XX/XX/2025  | XX/XX/2025   |
-| Python 3 - Mundo 3  | XX/XX/2025  | XX/XX/2025   |
+| Curso               | Início     | Conclusão  |
+|---------------------|------------|------------|
+| Python 3 - Mundo 1  | 15/07/2025 | 23/07/2025 |
+| Python 3 - Mundo 2  | 23/07/2025 | XX/XX/2025 |
+| Python 3 - Mundo 3  | XX/XX/2025 | XX/XX/2025 |
 
+---
+### Configurações: 
+
+* Python 3.13.5
 ---
 
