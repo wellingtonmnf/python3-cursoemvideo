@@ -1,6 +1,6 @@
-print(f'{'LOJAS GUANABARA':=^40}')
+print(f'{' LOJAS GUANABARA ':=^40}')
 
-precocheio = float(input('Insira o valor total na compra (R$): '))
+precocheio = float(input('Insira o valor total da compra (R$): '))
 
 print("""FORMAS DE PAGAMENTO:
 [1] - À VISTA | DINHEIRO/CHEQUE
