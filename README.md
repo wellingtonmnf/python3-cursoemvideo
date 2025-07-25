@@ -36,5 +36,6 @@ Todos os direitos do conteúdo do curso são reservados à Curso em Vídeo © �
 ### Configurações: 
 
 * Python 3.13.5
+* pip 25.1.1
 ---
 
