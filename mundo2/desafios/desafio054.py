@@ -5,7 +5,7 @@ print(f'{"CHECADOR DE MAIORIDADE":^36}')
 print('-' * 36)
 
 data = date.today().year
-nasc, menor, maior = 0, 0, 0
+menor, maior = 0, 0
 
 for c in range(0, 7):
     nasc = int(input('Insira o ano de nascimento: '))
