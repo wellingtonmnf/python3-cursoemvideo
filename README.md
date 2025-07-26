@@ -38,4 +38,12 @@ Todos os direitos do conteúdo do curso são reservados à Curso em Vídeo © �
 * Python 3.13.5
 * pip 25.1.1
 ---
+### Estrutura de arquivos:
+
+| Categoria             | Descrição                                                                                                            |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Aulas**             | Arquivos que mostram a parte prática dos conceitos aprendidos nas aulas                                             |
+| **Desafios**          | Meu próprio modo de resolver os exercícios, sem checar as respostas antes                                           |
+| **Exercícios**        | Arquivos com a resposta do Guanaraba na correção (às vezes com outra versão da resposta, incrementada por mim) para comparação e enriquecimento com soluções diferentes |
+| **Scripts (Mundo 1)** | Arquivos passados no início do curso para executar códigos automaticamente                                          |
 
