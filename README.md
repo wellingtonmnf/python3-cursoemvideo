@@ -48,7 +48,7 @@ Iniciar o aprendizado na linguagem Python para construir uma base sólida para o
 | Curso               | Início     | Conclusão  |
 |---------------------|------------|------------|
 | Python 3 - Mundo 1  | 15/07/2025 | 23/07/2025 |
-| Python 3 - Mundo 2  | 23/07/2025 | XX/XX/2025 |
-| Python 3 - Mundo 3  | XX/XX/2025 | XX/XX/2025 |
+| Python 3 - Mundo 2  | 23/07/2025 | 31/07/2025 |
+| Python 3 - Mundo 3  | 31/07/2025 | XX/XX/2025 |
 
 ---

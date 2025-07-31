@@ -37,4 +37,3 @@ while True:
         break
 
 print('-' * 30)
-
