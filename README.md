@@ -23,7 +23,7 @@ Todos os direitos de imagem e de conteúdo do curso são reservados à Curso em 
 ---
 ### Objetivo:
 
-Iniciar o aprendizado na linguagem Python para construir uma base sólida para o aprendizado a ser aplicado nas áreas de Inteligência Artificial e Ciência de Dados, por conta do curso de pós-graduação iniciado no 2º semestre de 2025. 
+Iniciar o aprendizado na linguagem Python para construir uma base sólida para o aprendizado a ser aplicado nas áreas de [Inteligência Artificial e Ciência de Dados](https://pos.unifacs.br/curso/inteligencia-artificial-e-ciencia-de-dados), por conta do curso de pós-graduação iniciado no 2º semestre de 2025. 
 
 ---
 ### Estrutura de arquivos:
