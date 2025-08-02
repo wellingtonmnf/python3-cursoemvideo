@@ -1,4 +1,3 @@
-from itertools import count
 variacoes = ('um', 'outro', 'mais um', 'o último')
 seq = pares = ''
 noves = 0
