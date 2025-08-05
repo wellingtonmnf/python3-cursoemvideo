@@ -1,11 +1,9 @@
 numeros = []
-cont = 0
 
 while True:
 
     num = int(input('Digite um valor: '))
     numeros.append(num)
-    cont += 1
 
     while True:
 
@@ -18,7 +16,7 @@ while True:
     if resp == 'N':
         break
 
-print(f'Você digitou {cont} elementos')
+print(f'Você digitou {len(numeros)} elementos')
 numeros.sort(reverse=True)
 print(f'Os valores em ordem decrescente são {numeros}')
 if 5 in numeros:
