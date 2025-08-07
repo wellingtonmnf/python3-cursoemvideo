@@ -7,5 +7,5 @@ for c in range(0, 3):
 print('-' * 30)
 for c in range(0, 3):
     for i in range(0, 3):
-        print(f'[ {matriz[c][i]} ]', end='')
+        print(f'[ {matriz[c][i]:^3} ]', end='')
     print()
