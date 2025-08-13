@@ -28,7 +28,7 @@ print(f'B) A média de idade é de {media_idade:.2f} anos.')
 print(f'C) As mulheres cadastradas foram:')
 for pes in pessoas:
     if pes['sexo'] == 'F':
-        print(p['nome'], end=' ')
+        print(pes['nome'], end=' ')
 print()
 print(f'D) Lista das pessoas que estão acima da média:')
 for pes in pessoas:

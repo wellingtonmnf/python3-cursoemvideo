@@ -35,14 +35,14 @@ while True:
     print('-=' * 50)
     if num == 999:
         break
-    elif num < len(time):
+    elif num >= len(time) or num < 0:
+        print('ERRO! JOGADOR NÃO ENCONTRADO NA BASE DE DADOS')
+    else:
         print(f'LEVANTAMENTO DO JOGADOR: {time[num]['nome']}')
         print(f'O jogador {time[num]['nome']} jogou {len(time[num]["gols"])} partidas')
         for pos, g in enumerate(time[num]["gols"]):
             print(f'=> Na partida {pos}, fez {g} gols.')
         print(f'Foi um total de {time[num]["total"]} gols')
-    else:
-        print('ERRO! JOGADOR NÃO ENCONTRADO NA BASE DE DADOS')
     print('-' * 40)
 print('FINALIZANDO...')
 print('VOLTE SEMPRE!'.center(50,'-'))
