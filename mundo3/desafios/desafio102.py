@@ -19,7 +19,7 @@ def fatorial(n=1, show=False):
 
 print(f'-' * 30)
 print(fatorial(5, True))
-print(fatorial(3, True))
+print(fatorial(3))
 print(fatorial(6, True))
 print(fatorial())
 help(fatorial)
