@@ -10,7 +10,6 @@ def diminuir(valor, porc, format=False):
     if format:
         valor = moeda(valor)
     return valor
-    return valor
 
 
 def dobro(valor, format=False):

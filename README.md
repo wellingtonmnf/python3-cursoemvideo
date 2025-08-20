@@ -28,18 +28,18 @@ Iniciar o aprendizado na linguagem Python para construir uma base sólida para o
 ---
 ### Estrutura de arquivos:
 
-| Categoria               | Descrição                                                                                                            |
-|-------------------------|---------------------------------------------------------------------------------------------------------------------|
-| _**Aulas**_             | Arquivos que mostram a parte prática dos conceitos aprendidos nas aulas                                             |
-| _**Desafios**_          | Meu próprio modo de resolver os exercícios, sem checar as respostas antes                                           |
+| Categoria               | Descrição                                                                                                                                                               |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _**Aulas**_             | Arquivos que mostram a parte prática dos conceitos aprendidos nas aulas                                                                                                 |
+| _**Desafios**_          | Meu próprio modo de resolver (TODOS) os exercícios, sem checar as respostas antes                                                                                       |
 | _**Exercícios**_        | Arquivos com a resposta do Guanaraba na correção (às vezes com outra versão da resposta, incrementada por mim) para comparação e enriquecimento com soluções diferentes |
-| _**Scripts (Mundo 1)**_ | Arquivos passados no início do curso para executar códigos automaticamente                                          |
+| _**Scripts (Mundo 1)**_ | Arquivos passados no início do curso para executar códigos automaticamente                                                                                              |
 
 ---
 ### Configurações: 
 
 * Python 3.13.5
-* pip 25.1.1
+* pip 25.2
 * requirements.txt
 
 ---
@@ -49,6 +49,6 @@ Iniciar o aprendizado na linguagem Python para construir uma base sólida para o
 |---------------------|------------|------------|
 | Python 3 - Mundo 1  | 15/07/2025 | 23/07/2025 |
 | Python 3 - Mundo 2  | 23/07/2025 | 31/07/2025 |
-| Python 3 - Mundo 3  | 31/07/2025 | XX/XX/2025 |
+| Python 3 - Mundo 3  | 31/07/2025 | 19/08/2025 |
 
 ---

@@ -9,7 +9,7 @@ c = ('\033[m',  # 0 - sem cores
      '\033[0;30;46m',  # 6 - branco
      '\033[0;30;47m',  # 7 - cinza
      '\033[7m'  # 8 - invertido
-     ) # Variável GLOBAL
+     )  # Variável GLOBAL
 
 
 def ajuda(com):
